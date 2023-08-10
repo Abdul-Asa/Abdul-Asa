@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abdullah!
 
-I'm a full-stack engineer from Nigeria, and currently a student in uni. I love to create fun things with code, drink apple juice (religiously) 🍎, and read manhwas 📚. 
+I'm a full-stack engineer from Nigeria, and currently open to projects. I love to create fun things with code, drink apple juice (religiously) 🍎, and read manhwas 📚. 
 
 ## Technologies & Tools I've used (& probably still use)🛠️
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -20,6 +20,12 @@ I'm a full-stack engineer from Nigeria, and currently a student in uni. I love t
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 
+## Connect with Me 🌐
+- **GitHub**: [abdul-asa](https://github.com/abdul-asa)
+- **LinkedIn**: [Abdullah Shehu](https://www.linkedin.com/in/abdullah-shehu/)
+- **Discord**: [Profile](https://discordapp.com/users/619602146526232577)
+- **Instagram**: [@_abdul_.s](https://www.instagram.com/_abdul_.s/)
+- **Twitter**: [@abdullahshehu1](https://twitter.com/abdullahshehu1)
 Feel free to connect with me or check out my projects. Happy coding! 💻
 
 ## 🏆 GitHub Trophies
