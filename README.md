@@ -26,7 +26,9 @@ I'm a full-stack engineer from Nigeria, and currently open to projects. I love t
 - **Discord**: [Profile](https://discordapp.com/users/619602146526232577)
 - **Instagram**: [@_abdul_.s](https://www.instagram.com/_abdul_.s/)
 - **Twitter**: [@abdullahshehu1](https://twitter.com/abdullahshehu1)
-Feel free to connect with me or check out my projects. Happy coding! 💻
+
+  
+#### Feel free to connect with me or check out my projects. Happy coding! 💻
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdul-Asa&theme=radical&no-frame=true&no-bg=false&margin-w=4)
