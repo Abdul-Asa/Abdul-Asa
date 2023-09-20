@@ -21,6 +21,7 @@ I'm a full-stack engineer from Nigeria, and currently open to projects. I love t
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 
 ## Connect with Me 🌐
+- **Portfolio**: [asa.dev](https://asa-portfolio.vercel.app/)
 - **GitHub**: [abdul-asa](https://github.com/abdul-asa)
 - **LinkedIn**: [Abdullah Shehu](https://www.linkedin.com/in/abdullah-shehu/)
 - **Discord**: [Profile](https://discordapp.com/users/619602146526232577)
