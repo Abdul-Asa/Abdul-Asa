@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abdullah!
 
-I'm a full-stack engineer from Nigeria, and currently open to projects. I love to create fun things with code, drink apple juice (religiously) 🍎, and read manhwas 📚. 
+Full-stack engineer who builds fun things with code, drinks apple juice religiously 🍎, and reads way too many manhwas 📚 — open to projects
 
 ## Technologies & Tools I've used (& probably still use)🛠️
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
