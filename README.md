@@ -2,7 +2,6 @@
 
 Full-stack engineer who builds fun things with code, drinks apple juice religiously 🍎, and reads way too many manhwas 📚 — open to projects
 
-## Technologies & Tools I've used (& probably still use)🛠️
 ## Technologies & Tools I've used (& probably still use) 🛠️
 
 ### 🖼️ Frontend
@@ -50,6 +49,8 @@ Full-stack engineer who builds fun things with code, drinks apple juice religiou
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion)
 ![UNIX](https://img.shields.io/badge/-UNIX-222222?logo=gnu-bash)
 ![OpenAI](https://img.shields.io/badge/-GPT--3.5/4-412991?logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor)
+
 
 ## Connect with Me 🌐
 - **Portfolio**: [asa.dev](https://asa-dev.vercel.app/)
